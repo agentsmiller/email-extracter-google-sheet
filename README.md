@@ -1,2 +1,2 @@
 # email-extracter-google-sheet
-Extracts emails from Gmail into an Active Google Sheet
+Extracts emails from Gmail with a specified label into an Active Google Sheet
